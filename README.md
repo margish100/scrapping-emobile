@@ -17,10 +17,9 @@ There are various libraries out there available for Python I will try to explain
 import urllib.request
 and type the following code,
 
-Hide   Copy Code
-# SWAMI KARUPPASWAMI THUNNAI
+
 import urllib.request
-source = urllib.request.urlopen("http://www.codeproject.com")
+source = urllib.request.urlopen("http://www.coderunner.com")
 print(source)
 
 ==================================================================
